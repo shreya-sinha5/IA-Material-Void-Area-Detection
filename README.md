@@ -1,7 +1,7 @@
 # IA-Material-Void-Area-Detection
 Computer-vision based pixel analysis of a crushed Impact Attenuator (IA) to estimate material and void area ratios using grayscale segmentation and Otsu's automatic thresholding.
 
-# IA Pixel Area Analysis using Otsu Thresholding
+### IA Pixel Area Analysis using Otsu Thresholding
 
 A computer-vision based image-processing pipeline for estimating the material-to-void area ratio of a crushed Impact Attenuator (IA) from a top-view photograph.
 
